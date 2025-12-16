@@ -32,6 +32,15 @@ This project implements a machine learning pipeline to predict loan defaults. By
 
 
 
+## 📉 Visualizations
+
+### Confusion Matrix (Final Random Forest)
+The model achieves near-perfect separation between approved and rejected loans, with almost zero false positives or false negatives.
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+
+
 \## 🛠️ The Analysis Story
 
 
