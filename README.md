@@ -2,13 +2,6 @@
 
 
 
-!\[Python](https://img.shields.io/badge/Python-3.10-blue)
-
-!\[Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
-
-!\[Accuracy](https://img.shields.io/badge/Accuracy-100%25-green)
-
-
 
 \## 📋 Executive Summary
 
@@ -79,5 +72,5 @@ The dataset was highly imbalanced. I used \*\*SMOTE (Synthetic Minority Over-sam
 
 &nbsp;  ```bash
 
-&nbsp;  git clone \[https://github.com/YOUR\_USERNAME/bank-loan-prediction.git](https://github.com/YOUR\_USERNAME/bank-loan-prediction.git)
+&nbsp;  git clone \[https://github.com/YOUR_USERNAME/bank-loan-prediction.git](https://github.com/YOUR_USERNAME/bank-loan-prediction.git)
 
