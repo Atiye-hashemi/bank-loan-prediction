@@ -1,0 +1,15 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Dataset (Optional)
+# data/
